@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simonprickett/google-cloud-functions-node-8/issues"
   },
-  "homepage": "https://github.com/simonprickett/google-cloud-functions-node-8#readme"
+  "homepage": "https://github.com/simonprickett/google-cloud-functions-node-8#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
 }
