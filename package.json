@@ -1,0 +1,19 @@
+{
+  "name": "google-cloud-functions-node-8",
+  "version": "1.0.0",
+  "description": "Demo for Google Cloud Functions Node 8 Runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonprickett/google-cloud-functions-node-8.git"
+  },
+  "author": "Simon Pricket",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonprickett/google-cloud-functions-node-8/issues"
+  },
+  "homepage": "https://github.com/simonprickett/google-cloud-functions-node-8#readme"
+}
